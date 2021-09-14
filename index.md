@@ -16,12 +16,28 @@ Working as a curriculum developer and project manager [Makersredbox.com](https:/
 
 ### Specialized in
 
-Lorem ipsum
+Turning people on about technology, training educators to use coding, 3D printing and other manufacturing technologies in class, leading live workshops in makerspace environments,
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Lorem ipsum
 
+## Experience
+
+`2017 - `
+**Maker's Red Box**, Budapest
+
+- Content developer
+- LMS content author
+- Course leader
+
+`2016-2017`
+**Private tutor**
+
+I held project based one-on-one and small group sessions for home schooled students. Topics were natural science based.
+
+`2015-2016`
+__Lucasian professor of Mathematics__, Cambridge University
 
 ## Education
 
@@ -67,18 +83,6 @@ etc. etc. etc.
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
