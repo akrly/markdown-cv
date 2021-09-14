@@ -1,24 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Attila Jeremiás Király's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Attila Jeremiás Király
+Maker educator, curriculum developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="attilajkiraly@gmail.com">attilajkiraly@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a curriculum developer and project manager [Makersredbox.com](https://www.makersredbox.com)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Lorem ipsum
 
 ### Research interests
 
