@@ -12,29 +12,32 @@ Maker educator, curriculum developer
 
 ## Currently
 
-Working as a curriculum developer and project manager [Makersredbox.com](https://www.makersredbox.com)
+Working as a curriculum developer and instructional designer at [Makersredbox.com](https://www.makersredbox.com)
 
 ### Specialized in
 
-Turning people on about technology, training educators to use coding, 3D printing and other manufacturing technologies in class, leading live workshops in makerspace environments,
+Turning people on about technology, Training educators to use coding, 3D printing and other manufacturing technologies in class. Leading live workshops in makerspace environments,
 
 ### Research interests
 
-Lorem ipsum
+
 
 ## Experience
 
 `2017 - `
 **Maker's Red Box**, Budapest
 
-- Content developer
-- LMS content author
-- Course leader
+- Author
+Cowrote a maker course titled Green engineers. The story calls the students to embark on a journey to Mars. They face engineering, design challanges during each of the 16 x 2 hours long sessions. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
+- Content development
+- Technical writing
+- Instructional design
+- Course leading
 
 `2016-2017`
 **Private tutor**
 
-I held project based one-on-one and small group sessions for home schooled students. Topics were natural science based.
+I held project based one-on-one and small group sessions for home schooled students. Topics covered natural sciences, media creation, gastrophysics, while meeting national curriculum requirements.
 
 `2015-2016`
 __Lucasian professor of Mathematics__, Cambridge University
