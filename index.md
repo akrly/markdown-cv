@@ -6,7 +6,7 @@ title: Attila Jeremiás Király's CV
 Maker educator, curriculum developer
 
 <div id="webaddress">
-  <a href="attilajkiraly@gmail.com">mailto:attilajkiraly@gmail.com</a>
+  <a href="mailto:attilajkiraly@gmail.com">attilajkiraly@gmail.com</a>
 </div>
 
 
