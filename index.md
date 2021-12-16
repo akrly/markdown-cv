@@ -12,7 +12,7 @@ Maker educator, curriculum developer
 
 ## Currently
 
-Working as a curriculum developer and instructional designer at [Makersredbox.com](https://www.makersredbox.com)
+Working as a curriculum developer and instructional designer at [makersredbox.com](https://www.makersredbox.com)
 
 ### Specialized in
 
