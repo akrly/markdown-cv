@@ -51,7 +51,7 @@ I joined and trained with the museums science communicators team and quickly got
 `2012-2015`
 **University of Exeter**
 
-# Awards
+## Awards
 
 `2020`
 "Excellent" (92%) [certificate](https://educationalliancefinland.com/products/maker%E2%80%99s-red-box-green-engineers-story-based-course-materials) for Green engineers course, **Education Alliance Finland**, Finland
