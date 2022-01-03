@@ -37,15 +37,17 @@ I worked in several long term and project based roles:
 I held project based one-on-one and small group sessions for home schooled students. Topics covered natural sciences, media creation, gastrophysics, while meeting national curriculum requirements.
 
 `2015-2016`
-__Lucasian professor of Mathematics__, Cambridge University
+**Palace of wonders** (Csodák Palotája), Budapest
+
+I joined and trained with the museums science communicators team and quickly got to host regular science shows and demonstrated popular experiments in an auditorium that could seat a 100 guests. Later on I got involved in the dialy management of the institution and coordinated the staff as shift lead.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2015``
+__University of Exeter.__
 
 `June 1661 - now`
-__Trinity College, Cambridge__
+**Trinity College, Cambridge**
 
 - Sizar
 
