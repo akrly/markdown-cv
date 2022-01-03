@@ -27,8 +27,8 @@ I worked in several long term and project based roles:
 - **Technical writing** - Developed content and documentation for various courses. The topic included microelectronics, programming in micropython and in block based IDEs
 - **Instructional design** - Managing a team of 4 to transform teacher's guide books into courses on Canvas (Instructure).
 - **Workshops & webinars**
-    *Induction to makerspace and maker pedagogy* - This is a 6 day course in which educators learn about tools and tech present in a typical makerspace. Throughout the course the participants also learn how to integrate making into their teaching.
-    *Product onboarding* - A monthly webinar for customers. 50% responding to questions and related topics. 50% feature demos.
+    - *Induction to makerspace and maker pedagogy* - This is a 6 day course in which educators learn about tools and tech present in a typical makerspace. Throughout the course the participants also learn how to integrate making into their teaching.
+    - *Product onboarding* - A monthly webinar for customers. 50% responding to questions and related topics. 50% feature demos.
 
 `2016-2017`
 **Private tutor**
