@@ -24,12 +24,12 @@ Turning people on about technology, Training educators to use coding, 3D printin
 **Maker's Red Box**, Budapest
 
 I worked in several long term and project based roles:
-- Author
-Cowrote a maker course titled Green engineers. The story calls the students to embark on a journey to Mars. They face engineering, design challanges during each of the 16 x 2 hours long sessions. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
-- Technical writing
-
-- Instructional design
-Lead a team of 3 to transform teacher's guide books into courses on Canvas (Instructure).
+- **Author**
+- Cowrote a maker course titled Green engineers. The story calls the students to embark on a journey to Mars. They face engineering, design challanges during each of the 16 x 2 hours long sessions. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
+- **Technical writing**
+- Developed content and documentation for various courses. The topic included microelectronics, programming in micropython and in block based IDEs
+- **Instructional design**
+- Lead a team of 3 to transform teacher's guide books into courses on Canvas (Instructure).
 - Workshops & webinars
 1. Induction to makerspace and maker pedagogy
 This is a 6 day course in which educators learn about tools and tech present in a typical makerspace.
