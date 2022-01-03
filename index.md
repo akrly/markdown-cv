@@ -51,6 +51,8 @@ I joined and trained with the museums science communicators team and quickly got
 `2012-2015`
 **University of Exeter**
 
+Bachelor of Physics
+
 ## Awards
 
 `2020`
