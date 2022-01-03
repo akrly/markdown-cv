@@ -22,6 +22,7 @@ Turning people on about technology, Training educators to use coding, 3D printin
 
 `2017 - `
 **Maker's Red Box**, Budapest
+
 I worked in several long term and project based roles:
 - **Author** - Cowrote a maker course titled Green engineers. The story calls the students to embark on a journey to Mars. They face engineering, design challanges during each of the 16 x 2 hours long sessions. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
 - **Technical writing** - Developed content and documentation for various courses. The topic included microelectronics, programming in micropython and in block based IDEs
@@ -59,12 +60,14 @@ Runner up/promising project, **DECODE architectural and art competition**, BORD 
 `2020`
 
 - [**Minta**](https://worthproject.eu/project/minta/), Facilitator and manufacturing partner
-    A year long collaboration between Orsolya Orbán, Berlin based textile designer. We teamed up to develop new surfaces and structural designs that can be used in architecture and interior design. Our solution is a system based on the art of weaving.
+
+A year long collaboration between Orsolya Orbán, Berlin based textile designer. We teamed up to develop new surfaces and structural designs that can be used in architecture and interior design. Our solution is a system based on the art of weaving.
 
 `2019`
 
 - **Porond**
-Collaboration with Csilla Horváth contemporary artist. Csilla created a sculpture based on a revolving circular stage, which was a commom playground toy. I built a custom mp3 player that detected if an audience member had the courage to climb up on the stage and played prerecorded applause.
+
+Collaboration with Csilla Horváth contemporary artist. Csilla created a sculpture based on a revolving circular stage, which was a common playground toy in our childhood. I built a custom mp3 player that detected if an audience member had the courage to climb up on the stage and played prerecorded applause.
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
