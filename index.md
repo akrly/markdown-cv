@@ -3,7 +3,7 @@ layout: cv
 title: Attila Jeremiás Király's CV
 ---
 # Attila Jeremiás Király
-Maker educator, curriculum developer
+Maker educator, curriculum developer, mentor
 
 <div id="webaddress">
   <a href="mailto:attilajkiraly@gmail.com">attilajkiraly@gmail.com</a>
@@ -12,27 +12,30 @@ Maker educator, curriculum developer
 
 ## Currently
 
-Working as a curriculum developer and instructional designer at [makersredbox.com](https://www.makersredbox.com)
+Working as a curriculum developer and project manager at [makersredbox.com](https://www.makersredbox.com)
 
 ### Specialized in
 
-Turning people on about technology, Training educators to use coding, 3D printing and other manufacturing technologies in class. Leading live workshops in makerspace environments,
-
-### Research interests
-
-
+Turning people on about technology, Training educators to use coding, 3D printing and other manufacturing technologies in class. Leading live workshops in makerspaces
 
 ## Experience
 
 `2017 - `
 **Maker's Red Box**, Budapest
 
+I worked in several long term and project based roles:
 - Author
 Cowrote a maker course titled Green engineers. The story calls the students to embark on a journey to Mars. They face engineering, design challanges during each of the 16 x 2 hours long sessions. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
-- Content development
 - Technical writing
+
 - Instructional design
-- Course leading
+Lead a team of 3 to transform teacher's guide books into courses on Canvas (Instructure).
+- Workshops & webinars
+1. Induction to makerspace and maker pedagogy
+This is a 6 day course in which educators learn about tools and tech present in a typical makerspace.
+Throughout the course the participants also learn how to integrate making into their teaching.
+2. Product onboarding
+A monthly webinar for customers. 50% responding to questions and related topics. 50% feature demos.
 
 `2016-2017`
 **Private tutor**
