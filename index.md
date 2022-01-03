@@ -54,11 +54,17 @@ I joined and trained with the museums science communicators team and quickly got
 
 Runner up/promising project, **DECODE architectural and art competition**, BORD Studio
 
-## Projects
+## Projects I'm proud of
 
 `2020`
 
-- [Minta](https://worthproject.eu/project/minta/), Facilitator and manufacturing partner,  
+- [**Minta**](https://worthproject.eu/project/minta/), Facilitator and manufacturing partner
+    A year long collaboration between Orsolya Orbán, Berlin based textile designer. We teamed up to develop new surfaces and structural designs that can be used in architecture and interior design. Our solution is a system based on the art of weaving.
+
+`2019`
+
+- **Porond**
+Collaboration with Csilla Horváth contemporary artist. Csilla created a sculpture based on a revolving circular stage, which was a commom playground toy. I built a custom mp3 player that detected if an audience member had the courage to climb up on the stage and played prerecorded applause.
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
