@@ -46,45 +46,18 @@ I joined and trained with the museums science communicators team and quickly got
 `2012-2015``
 __University of Exeter.__
 
-`June 1661 - now`
-**Trinity College, Cambridge**
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+"Excellent" (92%) [certificate](https://educationalliancefinland.com/products/maker%E2%80%99s-red-box-green-engineers-story-based-course-materials) for Green engineers course, **Education Alliance Finland**, Finland
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
 
-
+Runner up/promising project, **DECODE architectural and art competition**, BORD Studio
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 
