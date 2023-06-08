@@ -23,8 +23,9 @@ Fusion360 | OpenScad | OBS | FDM postprocessing | CLI tools | KiCad | Inkscape |
 ## Experience
 
 `2022 - Present`
-**Copenhagen Fablab** - Volunteer
-I am a member the Copenhagen Fablab, I seized the opportunity during my relocation to learn and build 3-axis CNC mills using a LinuxCNC based system. 
+**Copenhagen Fablab**
+
+- **Volunteer** - I am a member the Copenhagen Fablab, I seized the opportunity during my relocation to learn and build 3-axis CNC mills using a LinuxCNC based system. 
 
 `2017 - 2022`
 **Maker's Red Box**, Budapest
