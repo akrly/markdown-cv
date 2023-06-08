@@ -63,15 +63,11 @@ I offer personalized one-on-one and small group sessions for students seeking pr
 
 `2020`
 
-- [**Minta**](https://worth-partnership.ec.europa.eu/projects/minta_en), Facilitator and manufacturing partner
-
-Collaborated with Berlin-based textile designer Orsolya Orbán to develop new surfaces and structural designs for architecture and interior design using the art of weaving. The year-long collaboration resulted in the creation of a unique and innovative system. An art installation was exhibited online part of the Milan Design week in 2021 and the Museum of Ethnography, Budapest in 2022.
+- [MINTA](https://worth-partnership.ec.europa.eu/projects/minta_en) - **Facilitator and manufacturing partner** - Collaborated with Berlin-based textile designer Orsolya Orbán to develop new surfaces and structural designs for architecture and interior design using the art of weaving. The year-long collaboration resulted in the creation of a unique and innovative system. An art installation was exhibited online part of the Milan Design week in 2021 and the Museum of Ethnography, Budapest in 2022.
 
 `2019`
 
-- **Porond**, prototype developer
-
-Collaboration with Csilla Horváth contemporary artist. She created an interactive sculpture based on a revolving circular stage, which was a common playground toy in our childhood. I developed a music player that detected if an audience member had the courage to climb up on the stage and played a pre-recorded applause.
+- POROND - **Prototype developer** - Collaboration with Csilla Horváth contemporary artist. She created an interactive sculpture based on a revolving circular stage, which was a common playground toy in our childhood. I developed a music player that detected if an audience member had the courage to climb up on the stage and played a pre-recorded applause.
 
 ## Awards
 
