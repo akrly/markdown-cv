@@ -31,10 +31,10 @@ Fusion360 | OpenScad | OBS | FDM postprocessing | CLI tools | KiCad | Inkscape |
 **Maker's Red Box**, Budapest
 
 I worked in several long term and project based roles:
+- **Co-authored** "Green engineers", an immersive maker course that challenges students to solve engineering problems during a journey to Mars. My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
 - **Prototype maker** Developed an environmental sensor shield for micro:bit in KiCad. 
 - **Technical writer** - Created comprehensive technical documentation for multiple courses, covering mechanics, low voltage electronics, and programming in MicroPython and block-based IDEs.
 - **Project manager** - Lead an instructional design team of 3 transforming teacher's guide books into engaging online courses using a CanvasLMS based stack.
-- **Co-authored** "Green engineers", an immersive maker course that challenges students to solve engineering problems during a journey to Mars.My main role was to write the story, create and develop learning objectives, fuse them together and present it in a readily adaptable package to be used by educators. 
 - Conducted *induction courses* on makerspace and maker pedagogy for teachers, facilitating integration of making into their classrooms.
 - Hosted monthly *webinars* for customers, addressing queries, demonstrating product features, and fostering engaging discussions.
 
