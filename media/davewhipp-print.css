@@ -3,6 +3,14 @@
    License: none (public domain)
 */
 
+/*
+/* CSS HEX */
+--turkey-red: #a30000;
+--night: #0b090a;
+--dark-purple: #0f0326;
+--davys-gray: #554f4f;
+*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -67,6 +75,7 @@ p {
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 60%;
+   page-break-after: avoid;
 }
 
 code {
@@ -74,20 +83,20 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #554f4f;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -16%;
 }
 
 
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 70%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -104,6 +113,7 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+    text-align: justify;
 }
 
 li ul {
@@ -135,19 +145,20 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 2em;
+	color: #a30000;
+	margin-top: 1em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
 	width: 20%;
+   page-break-after: avoid;
 }
 
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
+	color: #554f4f;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -167,7 +178,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #a30000;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }

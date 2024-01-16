@@ -18,7 +18,7 @@ Open to work
 Technical Writing | Prototyping | Instructional Design | Workshop Facilitation | Mentoring
 
 ### Software skills
-Fusion360 | OpenScad | OBS | FDM postprocessing | CLI tools | KiCad | Inkscape | LMS authoring
+Fusion360 | OBS | FDM postprocessing | CLI tools | KiCad | Inkscape | LMS authoring
 
 ## Experience
 
@@ -46,7 +46,7 @@ I worked in several long term and project based roles:
 `2016 - Present`
 **Private tutor**
 
-I offer personalized one-on-one and small group sessions for students seeking project-based learning experiences. I cover various subjects such as natural sciences, engineering, media creation, and gastrophysics, tailoring the sessions to meet specific competence requirements. By leveraging my skills and experience, I facilitate hands-on projects that nurture students' curiosity and promote self-motivated learning, communication, and critical thinking skills.
+- **Independent** - I offer personalized one-on-one and small group sessions for students seeking project-based learning experiences. I cover various subjects such as natural sciences, engineering, media creation, and gastrophysics, tailoring the sessions to meet specific competence requirements. By leveraging my skills and experience, I facilitate hands-on projects that nurture students' curiosity and promote self-motivated learning, communication, and critical thinking skills.
 
 `2015 - 2016`
 **Palace of wonders** (Csodák Palotája), Budapest
@@ -62,12 +62,13 @@ I offer personalized one-on-one and small group sessions for students seeking pr
 ## Projects I'm proud of
 
 `2020`
+[**MINTA**](https://worth-partnership.ec.europa.eu/projects/minta_en)
 
-- [MINTA](https://worth-partnership.ec.europa.eu/projects/minta_en) - **Facilitator and manufacturing partner** - Collaborated with Berlin-based textile designer Orsolya Orbán to develop new surfaces and structural designs for architecture and interior design using the art of weaving. The year-long collaboration resulted in the creation of a unique and innovative system. An art installation was exhibited online part of the Milan Design week in 2021 and the Museum of Ethnography, Budapest in 2022.
+- **Facilitator and manufacturing partner** - Collaborated with Berlin-based textile designer Orsolya Orbán to develop new surfaces and structural designs for architecture and interior design using the art of weaving. The year-long collaboration resulted in the creation of a unique and innovative system. An art installation was exhibited online part of the Milan Design week in 2021 and the Museum of Ethnography, Budapest in 2022.
 
 `2019`
-
-- POROND - **Prototype developer** - Collaboration with Csilla Horváth contemporary artist. She created an interactive sculpture based on a revolving circular stage, which was a common playground toy in our childhood. I developed a music player that detected if an audience member had the courage to climb up on the stage and played a pre-recorded applause.
+**POROND**
+- **Prototype developer** - Collaboration with Csilla Horváth contemporary artist. She created an interactive sculpture based on a revolving circular stage, which was a common playground toy in our childhood. I developed a music player that detected if an audience member had the courage to climb up on the stage and played a pre-recorded applause.
 
 ## Awards
 
