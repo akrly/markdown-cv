@@ -11,6 +11,7 @@
 --davys-gray: #554f4f;
 */
 
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -61,7 +62,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
+	font-size: 11pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
@@ -73,9 +74,9 @@ p {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.2em;
-	margin-right: 0;
-	width: 60%;
-   page-break-after: avoid;
+	/*margin-right: 0;*/
+	width: 70%;
+	page-break-after: avoid
 }
 
 code {
@@ -89,16 +90,17 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -16%;
+	right: 0%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 20.5%;
 	width: 70%;
+	text-align: justify;
+	margin-top: 0em;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
@@ -110,10 +112,10 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	/*padding-left: 1.25em;
+	text-indent: -1.25em;*/
 	/*color: #777;*/
-    text-align: justify;
+	page-break-inside: avoid
 }
 
 li ul {
@@ -127,6 +129,7 @@ h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
+	page-break-after: avoid
 }
 
 h1 {
@@ -135,32 +138,34 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	color: #0f0326;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-top: -1.5em;
+	margin-bottom: 1em;
+   color: #554f4f;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a30000;
-	margin-top: 1em;
+	font-size: 1.2em;
+	color: #a00;
+	/*margin-top: 1em;*/
 	position: relative;
-	top: 1.2em;
+	top: 2em;
 	text-align: right;
 	width: 20%;
-   page-break-after: avoid;
 }
 
 
 h3 {
-	font-size: 1em;
-	line-height: 2em;
+	font-size: 1.1em;
 	color: #554f4f;
 	position: relative;
-	top: 1.6em;
+	top: 2.3em;
 	text-align: right;
 	width: 20%;
 }
@@ -177,19 +182,19 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
+	color: #554f4f;
 	left: 25%;
-	color: #a30000;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
 
 #webaddress a {
 	text-decoration: none;
+
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
 }
 
 strong {
@@ -200,6 +205,5 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
 
 

@@ -6,7 +6,7 @@ title: Attila Jeremiás Király's CV
 Developer | Course Designer | Maker Educator
 
 <div id="webaddress">
-  <a href="mailto:attilajkiraly@gmail.com">attilajkiraly@gmail.com</a>
+  tel: +4550135700 | <a href="mailto:attilajkiraly@gmail.com">attilajkiraly@gmail.com</a>
 </div>
 
 
