@@ -12,7 +12,7 @@ Developer | Course Designer | Maker Educator
 
 ## Currently
 
-On a sabbatical due to relocation.
+Open to work
 
 ### Specialized in
 Technical Writing | Prototyping | Instructional Design | Workshop Facilitation | Mentoring
